@@ -1,0 +1,32 @@
+{
+    "1": {
+        "name": "Mohamed",
+        "password": "1234",
+        "phone": "010",
+        "email": "mohamed@gmail.com",
+        "gender": "Male",
+        "age": "23",
+        "city": "Giza",
+        "balance": 900.0
+    },
+    "2": {
+        "name": "Dina",
+        "password": "1011",
+        "phone": "015",
+        "email": "dina@gmail.com",
+        "gender": "female",
+        "age": "22",
+        "city": "Giza",
+        "balance": 600.0
+    },
+    "3": {
+        "name": "dina",
+        "password": "1111",
+        "phone": "015",
+        "email": "dodo@gmail.com",
+        "gender": "female",
+        "age": "11",
+        "city": "giza",
+        "balance": 700.0
+    }
+}
